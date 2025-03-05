@@ -43,10 +43,9 @@ Built an interactive Power BI dashboard to visualize key metrics and trends. The
 2. Open the Power BI dashboard file.
 3. Explore the interactive visualizations to gain insights into sales data.
 
-### Preview
+## Preview 🪟
 ![image](https://github.com/user-attachments/assets/99d795aa-ee62-4bb9-a6b0-375dbfb8d9d3)
 
 ---
 
-Feel free to contribute or raise issues for improvements. Let’s make AmazeBoard even better! 💡
 
