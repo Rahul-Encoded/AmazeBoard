@@ -1,4 +1,4 @@
-# AmazeBoard 🚀
+# Amazon Sales Dashboard 🚀
 
 AmazeBoard is an interactive Amazon sales dashboard built using Power BI 📊. It visualizes key sales data, providing insights into order fulfillment, delivery status, sales channels, and product performance. This project helps analyze sales trends and operational efficiency through powerful visual representations.
 
